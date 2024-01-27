@@ -7,3 +7,10 @@ git add .
 git remote add origin "url"
 git commit -m "command label"
 git push -u origin master
+
+git branch branch-name
+git status
+git checkout branch-name
+cd.. for exit
+git clone "url"
+git pull "url"
