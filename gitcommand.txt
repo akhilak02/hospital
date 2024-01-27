@@ -1,2 +1,16 @@
 git config --global user.name "username"
 git config --global user.name "email"
+
+
+Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development
+
+
+Git pull, in a nutshell, is a two-part process. First, your remote-tracking branch is synced with the “true” branch in the remote repository.
+
+Then, your local branch is compared to the remote-tracking branch and receives the new commits so it can catch up to the current state of the remote branch.
+
+Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories
+
+1233
+
+
